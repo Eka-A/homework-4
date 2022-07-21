@@ -20,4 +20,4 @@ for (int i = 1; count <= B; count++)
 Console.WriteLine($"{A} в степени {B} = {result}");
 }
 
-Ex_001();
+//Ex_001();
